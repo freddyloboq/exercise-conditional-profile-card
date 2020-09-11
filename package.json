@@ -7,7 +7,7 @@
     "c9": "echo The webpack development server cannot be used on this project && echo Please run: $ npm run build",
     "dev-server": "echo The webpack development server cannot be used on this project,[0m Please run $ npm run build",
     "build": "webpack --mode development",
-    "start": "webpack-dev-server --mode development --open --port 3000",
+    "start": "webpack-dev-server --mode development --open --port 3001",
     "deploy": "node deploy-to-github.js"
   },
   "repository": {
